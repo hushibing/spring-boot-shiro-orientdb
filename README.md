@@ -1,3 +1,5 @@
+shiro使用了分布式
+
 This sample project is comprehended by the following:
 * Spring Boot REST controller
 * OrientDB (2.0.13) remote object persistence by means of Spring Data
